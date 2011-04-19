@@ -5,6 +5,7 @@
 banter (in-game or in-person) will get you removed from the league.
 4. Put your name (first and last), goodgame account name, email, and phone
 number on the league list.
+5. The league list will be updated on a regular basis.
 
 ## Application Form ##
 - Real Name: (First & Last)
@@ -22,6 +23,48 @@ number on the league list.
 
 # Goodgame SC2 League Rules & Regulations #
 > REMEMBER: IGNORANCE IS NOT A VALID DEFENSE. The rules are still valid, even
-> if you didn't know about them. YOU HAVE BEEN WARNED!
+> if you didn't know about them. YOU HAVE BEEN WARNED! Violation of these rules
+> will probably not penalize you much, but our league record may not reflect
+> "your" record if you don't follow some of these rules.
+
+# League Structure #
+The GGL will be in a "Grand Prix" style. Every week, all league activity will
+be tallied up, and everyone will be given a certain number of points based on
+their rank within everyone in the league. Your explicit point value will vary
+based on how many people are in the league at any time, but let's put it this
+way: if you're in first, you'll be getting a lot of points! You will need to
+play a minimum number of games to gain league points for the week, so don't
+think you can just get on top and stay there without playing any more games!
+
+League matches aren't the only way to get your points; they're just the most
+convenient and regular way. There will be league events that you can attend,
+like league tournaments and showmatches, that will increase your league points
+much faster than standard league play.
+
+### Standard League Game ###
+
+### Showmatch League Match ###
+
+### League Tournament ###
+
+# Goodgame SC2 League Rules & Regulations #
+> REMEMBER: IGNORANCE IS NOT A VALID DEFENSE. The rules are still valid, even
+> if you didn't know about them. YOU HAVE BEEN WARNED! Violation of these rules
+> will probably not penalize you much, but our league record may not reflect
+> "your" record if you don't follow some of these rules.
 
 # Goodgame SC2 League Season 1 Information #
+
+## Map Pool ##
+- Shakuras Plateau
+- Metalopolis
+- The Shattered Temple
+- Tal'Darim Altar LE
+- Typhon Peaks
+- Backwater Gulch
+- GSL Crevase
+- GSL Xel'Naga Fortress
+- GSL Dual Sight
+- Xel'Naga Caverns
+
+## Schedule ##
